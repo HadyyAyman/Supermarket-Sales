@@ -1,5 +1,3 @@
- ~$supermarket_sales .xlsx
-"SuperMarket Sales"/icons8-database-50.png
-"SuperMarket Sales"/icons8-pivot-table-50.png
-"SuperMarket Sales"/Hady Analytics.png
-"SuperMarket Sales"/supermarket_sales.pdf
+~$supermarket_sales .xlsx
+*.png
+*.pdf
